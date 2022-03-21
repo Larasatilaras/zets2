@@ -65,10 +65,10 @@ const tebakjenaka = JSON.parse(fs.readFileSync('./lib/tebakjenaka.json'))
 
 banChats = true
 offline = false
-targetpc = '6282293271747'
-owner = '6282293271747' //6285751056816
-fake = '*Created By KontoloOfficial*'
-botname = 'GtuBot'
+targetpc = '6281277924685'
+owner = '6281277924685' //6285751056816
+fake = '*Created By Yanzz botz*'
+botname = 'Yanzz botz'
 simbol = '>'
 numbernye = '0'
 waktu = '-'
